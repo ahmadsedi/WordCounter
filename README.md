@@ -2,7 +2,7 @@
 ## Problem
 Given a sentence, we need a function to count the sentence's each word. It should ignore "."
 Examples: <br><br>
-"UK is like no country except UK. One of the best in the world." -> {"UK"->2}, "{world->1}" <br>
+"UK is like no country except UK. One of the best in the world." -> {"UK"->2}, {"world"->1} <br>
 "" -> empty map <br>
 
 ## Solution 
